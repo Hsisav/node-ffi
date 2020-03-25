@@ -26,8 +26,8 @@
     "bindings": "~1.2.0",
     "debug": "2",
     "nan": "^2.12.0",
-    "ref": "1",
-    "ref-struct": "1"
+    "ref": "github:Hsisav/ref",
+    "ref-struct": "github:Hsisav/ref-struct"
   },
   "devDependencies": {
     "fs-extra": "^0.23.1",
